@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Quinel
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on SnakeGame
 - 🌱 I’m currently learning Git & GitHub
 - 📫 How to reach me: https://t.me/Qnl_0
 - ⚡ Fun fact: I confuse left and right side
