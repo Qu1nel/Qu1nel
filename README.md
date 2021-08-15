@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Quinel
 
-- 🔭 I’m currently working on TicTacToe
+- 🔭 I’m currently working on SnakeGame
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
