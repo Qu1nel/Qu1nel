@@ -1,16 +1,32 @@
 ### Hi there 👋, my name is Quinel
 
-- 🔭 I’m currently working on SnakeGame
-- 🌱 I’m currently learning Git & GitHub
-- 📫 How to reach me: https://t.me/Qnl_0
+- 🔭 I’m currently working on TicTacToe
+- 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
-
-Skills: Python
 
 🔭 I’m currently working on this page.
 
-![GitHub metrics](https://metrics.lecoq.io/Qu1nel)  
+### Connect with me:
+[<img alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools:
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+---
+
+<details>
+    <summary>:zap: Languages and Tools</summary>
+    <img alt="Python" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel" />
+
+</details>
+
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <img  alt="Quinel's GitHub Stats" src="https://metrics.lecoq.io/Qu1nel" />
+</details>
+
+<br />
 
 ![Profile views](https://gpvc.arturio.dev/Qu1nel)  
+
+[telegram]: https://t.me/Qnl_0
