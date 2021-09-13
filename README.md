@@ -20,13 +20,15 @@
 
 </details>
 
+<!--
 <details>
     <summary>:zap: GitHub Stats</summary>
     <img  alt="Quinel's GitHub Stats" src="https://metrics.lecoq.io/Qu1nel" />
 </details>
 
-<br />
+![Profile views](https://gpvc.arturio.dev/Qu1nel
+-->
 
-![Profile views](https://gpvc.arturio.dev/Qu1nel)  
+<br />
 
 [telegram]: https://t.me/Qnl_0
