@@ -1,34 +1,25 @@
 ### Hi there 👋, my name is Quinel
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on [Sketch Coding][repos]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
 🔭 I’m currently working on this page.
 
+### My skills:
+* Hard skills: Python, HTML, CSS
+
+### Languages:
+
+* 🇷🇺 Russian – native
+* 🇬🇧 English – low-intermediate level
+
 ### Connect with me:
-[<img alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55">][telegram]
+[Stepic](https://stepik.org/users/364922219)
 
-### Languages and Tools:
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+#### E-mail: quinelleave@gmail.com
 
----
-
-<details>
-    <summary>:zap: Languages and Tools</summary>
-    <img alt="Python" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel" />
-
-</details>
-
-<!--
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    <img  alt="Quinel's GitHub Stats" src="https://metrics.lecoq.io/Qu1nel" />
-</details>
-
-![Profile views](https://gpvc.arturio.dev/Qu1nel
--->
-
-<br />
 
 [telegram]: https://t.me/Qnl_0
+[repos]: https://github.com/Qu1nel/Sketch-Coding
