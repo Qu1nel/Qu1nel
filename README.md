@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Quinel
 
-- 🔭 I’m currently working on [VK_bot][repos]
+- 🔭 I’m currently working on nothing[repos]
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
@@ -22,4 +22,4 @@
 
 
 [telegram]: https://t.me/Qnl_0
-[repos]: https://github.com/Qu1nel/VK_bot
+[repos]: #
