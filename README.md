@@ -1,18 +1,18 @@
-### Hi there 👋, my name is Quinel
+### Hi there 👋, my name is Ivan
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on trojan m'ike
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
 🔭 I’m currently working on this page.
 
 ### My skills:
-* Hard skills: Python, HTML, CSS
+* Hard skills: Python, C++, HTML, CSS, 
 
 ### Languages:
 
 * 🇷🇺 Russian – native
-* 🇬🇧 English – low-intermediate level
+* 🇬🇧 English – pre-intermediate level
 
 ### Connect with me:
 [<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55">][telegram]
