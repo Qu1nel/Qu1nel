@@ -18,8 +18,8 @@ set fileencodings=utf8,cp1251
 
 " Файлы
 set fileformat=unix
-set noswapfile  " Без временных файлов
-set nobackup
+" set noswapfile  " Без временных файлов
+" set nobackup
 
 
 " Отступы и Оформление @ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~@
