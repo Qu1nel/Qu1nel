@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
-🔭 I’m currently working on this page.
+🔭 I’m currently working on myself (and this page).
 
 ### My skills:
 * Hard skills: Python, C, C++, HTML, CSS, Linux
