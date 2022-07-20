@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ivan
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on everything!!!!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I confuse left and right side
 
