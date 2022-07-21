@@ -19,7 +19,7 @@
 [<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="90">][telegram]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="55">][stepik]
 
-#### E-mail: quinelleave@gmail.com
+#### Email: quinelleave@gmail.com
 
 [codewars]: https://www.codewars.com/users/Qu1ne
 [telegram]: https://t.me/Qnl_0
