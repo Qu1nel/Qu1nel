@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on everything!!!!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Python 🤣
 - ⚡ Fun fact: I confuse left and right side
 
 🔭 I’m currently working on myself (and this page).
@@ -22,5 +22,5 @@
 #### Email: covach.qn@gmail.com
 
 [codewars]: https://www.codewars.com/users/Qu1ne
-[telegram]: https://t.me/Qnl_0
+[telegram]: https://t.me/qtroni
 [stepik]: https://stepik.org/users/364922219
