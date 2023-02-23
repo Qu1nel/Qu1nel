@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on everything
-- 🌱 I’m currently learning everything
-- ⚡ Fun fact: I confuse left and right side
+- 🤍 I’m currently working on everything
+- 🖤 I’m currently learning everything
+- 🤍 Fun fact: I confuse left and right side
 
-🔭 I’m currently working on this page.
+⌚ I’m currently working on this page.
 
 ### My had skills:
 * Python
