@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on everything!!!!
-- 🌱 I’m currently learning Python 🤣
+- 🔭 I’m currently working on everything
+- 🌱 I’m currently learning everything
 - ⚡ Fun fact: I confuse left and right side
 
-🔭 I’m currently working on myself (and this page).
+🔭 I’m currently working on this page.
 
-### My skills:
-* Hard skills: Python, C, C++, HTML, CSS, Linux
+### My had skills:
+* Python
+* C
+* C++
+* HTML/CSS
+* Linux
 
 ### Languages:
 
@@ -22,5 +26,5 @@
 #### Email: covach.qn@gmail.com
 
 [codewars]: https://www.codewars.com/users/Qu1ne
-[telegram]: https://t.me/qtroni
+[telegram]: https://t.me/seoLeiro
 [stepik]: https://stepik.org/users/364922219
