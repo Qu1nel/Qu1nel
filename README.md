@@ -39,19 +39,21 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=midnight-purple"
+  media="(prefers-color-scheme: dark)"
+/>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=midnight-purple"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&teme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Qu1nel&show_icons=true" />
 </picture>
 
-[![Qu1nel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=dark)](github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=dark&card_width=416)](github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=midnight-purple&card_width=416)](github)
 
 ***
 
