@@ -18,13 +18,13 @@
 
 
 ### Follow me:
-![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=Telegram&logoColor=dfe4ea)
-![Codewars](https://img.shields.io/badge/-Codewars-dfe4ea?style=for-the-badge&logo=Codewars&logoColor=1e272e)
-![Stepik](https://img.shields.io/badge/-Stepik-1e272e?style=for-the-badge&logo=&logoColor=dfe4ea)
+[![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=Telegram&logoColor=dfe4ea)][telegram]
+[![Codewars](https://img.shields.io/badge/-Codewars-dfe4ea?style=for-the-badge&logo=Codewars&logoColor=1e272e)][codewars]
+[![Stepik](https://img.shields.io/badge/-Stepik-1e272e?style=for-the-badge&logo=&logoColor=dfe4ea)][stepik]
 
 
 #### Contact email: covach.qn@gmail.com
 
-[Codewars]: https://www.codewars.com/users/Qu1nel
-[Telegram]: https://t.me/seoLeiro
-[Stepik]: https://stepik.org/users/364922219
+[codewars]: https://www.codewars.com/users/Qu1nel
+[telegram]: https://t.me/seoLeiro
+[stepik]: https://stepik.org/users/364922219
