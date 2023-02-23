@@ -23,7 +23,6 @@
 
 ⌚ *I’m currently working on this page.*
 
-#
 
 ## 🛠️ **My languages and tools:**
 ![Python](https://img.shields.io/badge/-Python-dfe4ea?style=for-the-badge&logo=python&logoColor=1e272e)
@@ -33,7 +32,6 @@
 ![CSS](https://img.shields.io/badge/-СSS-dfe4ea?style=for-the-badge&logo=CSS3&logoColor=1e272e)
 ![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=Linux&logoColor=dfe4ea)
 
-#
 
 ## 🚀 **GitHub Stats:**
 
