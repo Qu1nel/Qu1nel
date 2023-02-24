@@ -2,6 +2,7 @@
   <img src="hh.jpg" width=350px/>
 </div>
 
+
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram)][telegram]
@@ -15,6 +16,7 @@
 
 </div>
 
+
 ## **Information**
 
 - 🤍 I’m currently working on ...
@@ -24,6 +26,7 @@
 ⌚ *I’m currently working on this page.*
 
 
+
 ## 🛠️ **My languages and tools:**
 ![Python](https://img.shields.io/badge/-Python-dfe4ea?style=for-the-badge&logo=python&logoColor=1e272e)
 ![C](https://img.shields.io/badge/-Clang-1e272e?style=for-the-badge&logo=c&logoColor=dfe4ea)
@@ -31,6 +34,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5&logoColor=dfe4ea)
 ![CSS](https://img.shields.io/badge/-СSS-dfe4ea?style=for-the-badge&logo=CSS3&logoColor=1e272e)
 ![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=Linux&logoColor=dfe4ea)
+
 
 
 ## 🚀 **GitHub Stats:**
