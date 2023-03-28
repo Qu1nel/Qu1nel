@@ -10,6 +10,8 @@
 [![Stepik](https://img.shields.io/badge/-Stepik-brightgreen?style=for-the-badge)][stepik]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
+  
+[![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
 # **Qu1nel**
 
@@ -67,14 +69,14 @@
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layout=compact&theme=react"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layout=compact&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="(https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layout=compact" />
+<img src="(https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact" />
 </picture>
 </div>
 
