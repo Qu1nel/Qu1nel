@@ -38,7 +38,7 @@
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -52,7 +52,7 @@
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -67,7 +67,7 @@
 <div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layout=compact&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kingabesh&layout=compact&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
