@@ -47,6 +47,22 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Qu1nel&show_icons=true" />
 </picture>
 
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=graywhite"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact" />
+</picture>
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
 ### Contact email: **covach.qn@gmail.com**
