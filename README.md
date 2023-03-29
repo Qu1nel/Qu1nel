@@ -10,7 +10,7 @@
 [![Stepik](https://img.shields.io/badge/-Stepik-brightgreen?style=for-the-badge)][stepik]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
-  
+
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
 # **Qu1nel**
@@ -23,17 +23,16 @@
 - 🖤 I’m currently learning everything
 - 🤍 Fun fact: I confuse left and right side
 
-⌚ *I’m currently working on this page.*
-
+⌚ _I’m currently working on this page._
 
 ## 🛠️ **My languages and tools:**
+
 ![Python](https://img.shields.io/badge/-Python-dfe4ea?style=for-the-badge&logo=python&logoColor=1e272e)
 ![C](https://img.shields.io/badge/-Clang-1e272e?style=for-the-badge&logo=c&logoColor=dfe4ea)
 ![C++](https://img.shields.io/badge/-С++-dfe4ea?style=for-the-badge&logo=cplusplus&logoColor=1e272e)
 ![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5&logoColor=dfe4ea)
 ![CSS](https://img.shields.io/badge/-СSS-dfe4ea?style=for-the-badge&logo=CSS3&logoColor=1e272e)
 ![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=Linux&logoColor=dfe4ea)
-
 
 ## 🚀 **GitHub Stats:**
 
@@ -80,7 +79,7 @@
 </picture>
 </div>
 
-***
+---
 
 ### Contact email: **covach.qn@gmail.com**
 
