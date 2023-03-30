@@ -15,7 +15,7 @@
 
 ### **Information**
 
-<img align="right" alt="Literally me.." width="48%" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
+<img align="right" alt="Literally me.." width="40%" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 
 - 🤍 I’m currently working on **..**
 - 🖤 I’m currently **learning everything**
@@ -87,10 +87,10 @@
 ---
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
+
 ### Contact email: **covach.qn@gmail.com**
 
 [codewars]: https://www.codewars.com/users/Qu1nel
 [telegram]: https://t.me/seoLeiro
 [stepik]: https://stepik.org/users/364922219
 [github]: https://github.com/Qu1nel
-
