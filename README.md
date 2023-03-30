@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="hh.jpg" width=350px/>
+  <img src="hh.jpg" width="50%" />
 </div>
+
+<h1 align="center">Hi 👋, I'm Qu1nel</h1>
 
 <div align="center">
 
@@ -9,34 +11,53 @@
 [![Codewars](https://img.shields.io/badge/-Codewars-red?style=for-the-badge&logo=Codewars)][codewars]
 [![Stepik](https://img.shields.io/badge/-Stepik-brightgreen?style=for-the-badge)][stepik]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
-
-[![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
-
-# **Qu1nel**
-
 </div>
 
-## **Information**
+### **Information**
 
-- 🤍 I’m currently working on ...
-- 🖤 I’m currently learning everything
-- 🤍 Fun fact: I confuse left and right side
+<img align="right" alt="Literally me.." width="48%" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
+
+- 🤍 I’m currently working on **..**
+- 🖤 I’m currently **learning everything**
+- 🤍 Fun fact: **I confuse left and right side**
 
 ⌚ _I’m currently working on this page._
 
-## 🛠️ **My languages and tools:**
+### 🛠️ **Languages and tools:**
 
-![Python](https://img.shields.io/badge/-Python-dfe4ea?style=for-the-badge&logo=python&logoColor=1e272e)
-![C](https://img.shields.io/badge/-Clang-1e272e?style=for-the-badge&logo=c&logoColor=dfe4ea)
-![C++](https://img.shields.io/badge/-С++-dfe4ea?style=for-the-badge&logo=cplusplus&logoColor=1e272e)
-![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5&logoColor=dfe4ea)
-![CSS](https://img.shields.io/badge/-СSS-dfe4ea?style=for-the-badge&logo=CSS3&logoColor=1e272e)
-![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=Linux&logoColor=dfe4ea)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🚀 **GitHub Stats:**
 
-<div>
+[![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
+
+<div align="center">
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=react"
@@ -48,9 +69,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Qu1nel&show_icons=true" />
 </picture>
-</div>
-
-<div>
+ 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=react"
@@ -65,25 +84,13 @@
   
 </div>
 
-<div>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&theme=react"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&theme=graywhite"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="(https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact" />
-</picture>
-</div>
-
 ---
 
+[![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
 ### Contact email: **covach.qn@gmail.com**
 
 [codewars]: https://www.codewars.com/users/Qu1nel
 [telegram]: https://t.me/seoLeiro
 [stepik]: https://stepik.org/users/364922219
 [github]: https://github.com/Qu1nel
+
