@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="hh.jpg" width="50%" />
+  <img src="hh.jpg" width="44%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Qu1nel</h1>
