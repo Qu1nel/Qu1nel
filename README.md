@@ -9,7 +9,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram)][telegram]
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github)][github]
 [![Codewars](https://img.shields.io/badge/-Codewars-red?style=for-the-badge&logo=Codewars)][codewars]
-[![Stepik](https://img.shields.io/badge/-Stepik-brightgreen?style=for-the-badge)][stepik]
 
 </div>
 
@@ -23,8 +22,10 @@
 
 ⌚ _I’m currently working on this page._
 
-### 🛠️ **Languages and tools:**
+##### Contact email: **covach.qn@gmail.com**
 
+
+<h3><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> <b>Languages and tools:</b></h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -56,7 +57,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
-<div align="center">
+<div style="display: inline_block" align="center">
 
 <picture>
 <source 
@@ -67,11 +68,11 @@
   srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Qu1nel&show_icons=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&show_icons=true" />
 </picture>
  
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=react"
   media="(prefers-color-scheme: dark)"
 />
@@ -79,18 +80,23 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=compact" />
 </picture>
   
 </div>
 
+<br />
+
+![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=Qu1nelw&style=for-the-badge&color=brightgreen)](github)
+<div align="center">
 
-### Contact email: **covach.qn@gmail.com**
+[![GitHub](https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet)][github]
 
-[codewars]: https://www.codewars.com/users/Qu1nel
-[telegram]: https://t.me/seoLeiro
-[stepik]: https://stepik.org/users/364922219
-[github]: https://github.com/Qu1nel
+</div>
+
+[Codewars]: https://www.codewars.com/users/Qu1nel
+[Telegram]: https://t.me/seoLeiro
+[Github]: https://github.com/Qu1nel
