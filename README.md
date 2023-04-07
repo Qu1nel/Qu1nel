@@ -98,5 +98,5 @@
 </div>
 
 [Codewars]: https://www.codewars.com/users/Qu1nel
-[Telegram]: https://t.me/seoLeiro
+[Telegram]: https://t.me/qnllqq
 [Github]: https://github.com/Qu1nel
