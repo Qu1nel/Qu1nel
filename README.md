@@ -110,6 +110,8 @@
 
 ![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img src="./src/gifs/br.gif" /><br />
 
 <div align="center">
