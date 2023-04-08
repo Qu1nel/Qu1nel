@@ -31,6 +31,8 @@
 
 <br /> <br />
 
+---
+
 <div>
   <h3><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h3>
 
