@@ -90,6 +90,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div style="display: inline_block" align="center">
+  <br />
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=react"
