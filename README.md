@@ -20,7 +20,7 @@
 <div class="info-block">
   <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
+    <summary><h1 style="display: inline-block;">ㅤㅤ| <img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
   </ul>
   
   <img align="right" alt="Literally me.." width="40%" src="./src/gifs/poor_mouse.gif" />
@@ -42,7 +42,7 @@
 <br />
 
 <div>
-  <h2><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h2>
+  <h2>| <img src="./src/gifs/computer.gif" height="37px"> <b> Languages and tools:</b></h2>
 
   <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -76,7 +76,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;"><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2></summary>
+    <summary><h2 style="display: inline-block;">| <img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2></summary>
   </ul>
 </div>
 
