@@ -15,6 +15,8 @@
 
 <br />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42F7CB&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+developer.)](https://git.io/typing-svg)
+
 <div class="info-block">
   <div id="user-content-toc">
   <ul>
@@ -80,7 +82,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
-<div style="display: inline_block" align="center">
+<details> 
+  <summary><b>💻 GitHub Profile Statistics</b></summary>
+  <div style="display: inline_block" align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Qu1nel&count_private=true&show_icons=true&theme=react"
@@ -108,11 +112,14 @@
 
 <br />
 
-![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
+
+![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
+
 <img src="./src/gifs/br.gif" /><br />
+
 
 <div align="center">
 
