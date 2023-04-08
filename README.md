@@ -15,7 +15,7 @@
 
 <br />
 
-<h2 style="border-bottom: none"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h2>
+<h3><img src="./src/gifs/about_me.gif" width="42px" /> Information</h3>
 
 <img align="right" alt="Literally me.." width="40%" src="./src/gifs/poor_mouse.gif" />
 
@@ -32,7 +32,7 @@
 <br /> <br />
 
 <div>
-  <h2 style="border-bottom: none"><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h2>
+  <h3><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h3>
 
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@
   </p>
 </div>
 
-<h2 style="border-bottom: none"><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2>
+<h3><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h3>
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
