@@ -1,8 +1,8 @@
-<div id="header" align="center">
-  <img src="hh.jpg" width="44%" />
+<div align="center">
+  <img src="./src/images/hh.jpg" width="44%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Qu1nel</h1>
+<h1 align="center">Hi, I'm Qu1nel <img src="./src/gifs/hand.webp" width="35px"></h1>
 
 <div align="center">
 
@@ -12,15 +12,17 @@
 
 </div>
 
-### **Information**
+<h3>Information</h3>
 
 <img align="right" alt="Literally me.." width="40%" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 
+
 - 🤍 I’m currently working on **..**
 - 🖤 I’m currently **learning everything**
-- 🤍 Fun fact: **I confuse left and right side**
+- 🤍 A passionate Self-taught developer  
+- 🖤 Fun fact: **I confuse left and right side**
 
-⌚ _I’m currently working on this page._
+
 
 ##### Contact email: **covach.qn@gmail.com**
 
@@ -96,6 +98,11 @@
 [![GitHub](https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet)][github]
 
 </div>
+
+
+<p>
+  ⌚<i>I’m currently working on this page.</i>
+</p>
 
 [Codewars]: https://www.codewars.com/users/Qu1nel
 [Telegram]: https://t.me/qnllqq
