@@ -25,7 +25,7 @@
 ##### Contact email: **covach.qn@gmail.com**
 
 
-<h3><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> <b>Languages and tools:</b></h3>
+<h3><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="37px"> <b>Languages and tools:</b></h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-## 🚀 **GitHub Stats:**
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="45px"> <b>GitHub Stats:</b></h2>
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
