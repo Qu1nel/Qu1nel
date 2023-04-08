@@ -2,7 +2,7 @@
   <img src="./src/images/hh.jpg" width="35%" />
 </div>
 
-<h1 align="center">Hi, I'm Qu1nel <img src="./src/gifs/hand.webp" width="35px"></h1>
+<h1 align="center">Hi, I'm Qu1nel 👋</h1>
 
 <div align="center">
 
@@ -119,7 +119,6 @@
 ![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
 
 <img src="./src/gifs/br.gif" /><br />
-
 
 <div align="center">
 
