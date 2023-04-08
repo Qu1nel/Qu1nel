@@ -22,7 +22,7 @@
 <div>
   <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
+    <summary><h1 style="display: inline-block;">ㅤㅤ| <img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
   </ul>
   
   </div>
@@ -81,7 +81,7 @@
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;"><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2></summary>
+    <summary><h2 style="display: inline-block;">| <img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2></summary>
   </ul>
 </div>
 
