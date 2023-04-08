@@ -17,13 +17,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42F7CB&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+developer.)](https://git.io/typing-svg)
 
-<div class="info-block">
+<img align="right" alt="Literally me.." height="600" src="./src/gifs/bg1.gif" />
+
+<div>
   <div id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
   </ul>
   
-  <img align="right" alt="Literally me.." width="40%" src="./src/gifs/poor_mouse.gif" />
   </div>
 
   <br />
@@ -42,7 +43,11 @@
 <br />
 
 <div>
-  <h2><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h2>
+  <div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block;"><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h2></summary>
+  </ul>
+  </div>
 
   <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -126,7 +131,7 @@
 
 </div>
 
-⌚ _I’m currently working on this page._
+<p> ⌚ <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p>
 
 [Codewars]: https://www.codewars.com/users/Qu1nel
 [Telegram]: https://t.me/qnllqq
