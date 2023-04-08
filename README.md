@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./src/images/hh.jpg" width="44%" />
+  <img src="./src/images/hh.jpg" width="35%" />
 </div>
 
-<h1 align="center">Hi, I'm Qu1nel <img src="./src/gifs/hand.webp" width="35px"></h1>
+<h1 align="center" style="font-size: 2.7em">Hi, I'm Qu1nel <img src="./src/gifs/hand.webp" width="35px"></h1>
 
 <div align="center">
 
@@ -12,50 +12,57 @@
 
 </div>
 
-<h3>Information</h3>
+<br />
 
-<img align="right" alt="Literally me.." width="40%" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
+<h3 style="margin-left: 1.7em; font-size: 2.2em"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h4>
 
+<img style="margin-top: -3.8em; margin-right: 4em" align="right" alt="Literally me.." width="40%" src="./src/gifs/poor_mouse.gif" />
+
+<br>
 
 - 🤍 I’m currently working on **..**
+
 - 🖤 I’m currently **learning everything**
+
 - 🤍 A passionate Self-taught developer  
+
 - 🖤 Fun fact: **I confuse left and right side**
 
+<br />
+<hr>
 
+<div>
+<h3><img src="./src/gifs/computer.gif" height="37px"> <b>Languages and tools:</b></h3>
 
-##### Contact email: **covach.qn@gmail.com**
-
-
-<h3><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="37px"> <b>Languages and tools:</b></h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="./src/images/icons/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="./src/images/icons/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="./src/images/icons/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="./src/images/icons/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="./src/images/icons/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="./src/images/icons/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="./src/images/icons/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-</p>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="./src/images/icons/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+  </p>
+</div>
 
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="45px"> <b>GitHub Stats:</b></h2>
+<h2><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b></h2>
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
@@ -99,10 +106,10 @@
 
 </div>
 
-
-<p>
-  ⌚<i>I’m currently working on this page.</i>
-</p>
+<footer>
+  <p>Contact email: <a href="mailto:covach.qn@gmail.com">covach.qn@gmail.com</a></p>
+  <p>⌚<i>I’m currently working on this page.</i></p>
+</footer>
 
 [Codewars]: https://www.codewars.com/users/Qu1nel
 [Telegram]: https://t.me/qnllqq
