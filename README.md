@@ -22,7 +22,7 @@
 <div>
   <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">ㅤㅤ| <img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
+    <summary><h1 style="display: inline-block;"><img src="./src/gifs/about_me.gif" width="42px" /> Information</h1></summary>
   </ul>
   
   </div>
@@ -79,11 +79,8 @@
 
 <br />
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block;">| <img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b><img src="./src/gifs/br.gif"/></h2></summary>
-  </ul>
-</div>
+
+<h2><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b></h2>
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
@@ -124,13 +121,11 @@
 
 ![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
 
-<img src="./src/gifs/br.gif" /><br />
+----
 
-<div align="center">
+<br />
 
 [![GitHub](https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet)][github]
-
-</div>
 
 <p> ⌚ <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p>
 
