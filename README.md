@@ -15,7 +15,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=42F7CB&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+developer.)](https://git.io/typing-svg)
 
 <img align="right" alt="Literally me.." height="600" src="./src/gifs/bg1.gif" />
 
@@ -80,7 +80,7 @@
 <br />
 
 
-<h2><img src="./src/gifs/git_stats.gif" height="45px"> <b>GitHub Stats:</b></h2>
+<h2><img src="./src/gifs/git_stats.gif" height="45px"> <b>Statistics:</b></h2>
 
 [![wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
@@ -120,6 +120,8 @@
 </details>
 
 ![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
+
+![CodeWars stats](https://www.codewars.com/users/Qu1nel/badges/large)
 
 ----
 
