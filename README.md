@@ -121,7 +121,11 @@
 
 ![Snake animation](https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+
 ![CodeWars stats](https://www.codewars.com/users/Qu1nel/badges/large)
+
+</div>
 
 ----
 
