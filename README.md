@@ -32,7 +32,7 @@
   <ul>
   <li>🤍 I’m currently working on <b>..</b></li><br />
 
-  <li>🖤 I’m currently <b>learning everything</b></li><br />
+  <li>🖤 I’m currently learning <b>linux, bash</b></li><br />
 
   <li>🤍 A passionate Self-taught developer</li><br />
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![CodeWars stats](https://www.codewars.com/users/Qu1nel/badges/large)
+[![CodeWars stats](https://www.codewars.com/users/Qu1nel/badges/large)][Codewars]
 
 </div>
 
