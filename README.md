@@ -18,6 +18,7 @@
 
 
 <ul>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+Developer;I'm+a+Student;I'm+a+Teenager!!" />
 
 ### Information
   <img align="right" alt="Literally me.." height="250" src="./src/gifs/poor_mouse.gif" />
@@ -26,7 +27,6 @@
   <li>🖤 I’m currently learning <b>linux, bash, obsidian</b></li><br />
   <li>🤍 A passionate Self-taught developer</li><br />
   <li>🖤 Fun fact: <b>I confuse left and right side</b></li><br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+Developer;I'm+a+Student;I'm+a+Teenager!!" />
 </ul>
 
 <br />
