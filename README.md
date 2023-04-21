@@ -29,7 +29,7 @@
   <li>🖤 Fun fact: <b>I confuse left and right side</b></li><br />
 </ul>
 
-<br />
+<br /><br /><br />
 
 <div align="center">
 
@@ -66,9 +66,8 @@
 
 <br />
 
-
 <h2>
-  <img src="./src/gifs/git_cat.gif" height="45px"> <b>Statistics</b>
+  <img src="./src/gifs/git_cat.gif" height="38px"> <b>Statistics</b>
 </h2>
 
 [![Wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
