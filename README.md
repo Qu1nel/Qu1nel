@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+<img src="./src/waves.svg" />
 
 <h2 align="center">Hi there, I'm Ivan - aka Qu1nel 👋</h2>
 
