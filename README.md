@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" />
+
 <h2 align="center">Hi there, I'm Ivan - aka Qu1nel 👋</h2>
 
 <p align="center">
@@ -71,8 +73,8 @@
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div align="center">
     <br />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffffff&bg_color=1,000000,c23616&text_color=B1B1B1&border_radius=10&hide_border=true" />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=ffffff&icon_color=ffffff&bg_color=1,c23616,000000&text_color=ffffff&border_radius=10&hide_border=true&layout=compact" />
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,000000,c23616&text_color=B1B1B1&border_radius=10&hide_border=true" />
+    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,c23616,000000&text_color=fff&border_radius=10&hide_border=true&layout=compact" />
   </div>
   <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
