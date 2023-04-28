@@ -71,8 +71,8 @@
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div align="center">
     <br />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true&layout=compact" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true&layout=compact" />
   </div>
   <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&theme=react-dark" />
@@ -82,10 +82,6 @@
 
 <div align="center">
   <a href="https://www.codewars.com/users/Qu1nel"><img src="https://www.codewars.com/users/Qu1nel/badges/large" alt="Codewars stats"/></a>
+  <br />
+  <p><a href="https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0"><img src="https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg?style=flat-square"  alt="Wakatime-statistic" /></a> <a href="https://github.com/Qu1nel"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet"  alt="GitHub-views" /></a></p>
 </div>
-
-<h2></h2>
-
-<br />
-
-<p><a href="https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0"><img src="https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg?style=flat-square"  alt="Wakatime-statistic" /></a> <a href="https://github.com/Qu1nel"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet"  alt="GitHub-views" /></a></p>
