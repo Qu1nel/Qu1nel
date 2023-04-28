@@ -27,6 +27,7 @@
   <li>🖤 I’m currently learning <b>linux, bash, obsidian</b></li><br />
   <li>🤍 A passionate Self-taught developer</li><br />
   <li>🖤 Fun fact: <b>I confuse left and right side</b></li><br />
+  <li><p> ⌚ <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p></li>
 </ul>
 
 <br /><br /><br />
@@ -70,8 +71,6 @@
   <img src="./src/gifs/git_cat.gif" height="38px"> <b>Statistics</b>
 </h2>
 
-[![Wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
-
 <details> 
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div align="center">
@@ -103,9 +102,9 @@
 
 <br />
 
-[![GitHub](https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet)][github]
+[![Wakatime](https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg?style=flat-square)](https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0)
 
-<p> ⌚ <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p>
+[![GitHub](https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet)][github]
 
 [Codewars]: https://www.codewars.com/users/Qu1nel
 [Github]: https://github.com/Qu1nel
