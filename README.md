@@ -35,34 +35,8 @@
 
 <div align="center">
   <h3>Languages and tools</h3>
-  <p>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/python-original.svg" alt="python" width="36" height="36"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/linux-original.svg" alt="linux" width="36" height="36"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/c-original.svg" alt="c" width="36" height="36"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/gnu_bash-icon.svg" alt="bash" width="36" height="36"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/git-scm-icon.svg" alt="git" width="36" height="36"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="./src/images/icons/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="./src/images/icons/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
-    </a>
-  </p>
   
-  [![My Skills](https://skillicons.dev/icons?i=python,linux,bash,regex,github,git,html,css,cpp,c,md,vim,neovim,lua,pr,au,ps&theme=dark)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,regex,github,git,html,css,cpp,c,md,vim,neovim,lua&theme=dark)
   
 </div>
 
