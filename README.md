@@ -61,6 +61,9 @@
         <img src="./src/images/icons/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
     </a>
   </p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,linux,bash,regex,github,git,html,css,cpp,c,md,vim,neovim,lua,pr,au,ps&theme=dark)](https://skillicons.dev)
+  
 </div>
 
 <br />
