@@ -25,7 +25,7 @@
   <img align="right" alt="Literally me.." height="250" src="./src/gifs/poor_mouse.gif" />
   <br />
   <li>🤍 I’m currently working on <a href="https://github.com/Qu1nel/Life" alt="Project">Life</a></li><br />
-  <li>❤️ I’m currently learning <b>linux, bash, obsidian</b></li><br />
+  <li>❤️ I’m currently learning <b>linux, bash, obsidian, vscode</b></li><br />
   <li>🤍 A passionate Self-taught developer</li><br />
   <li>❤️ Fun fact: <b>I confuse left and right side</b></li><br />
   <li><p> 🤍 <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p></li>
@@ -36,7 +36,7 @@
 <div align="center">
   <h3>Languages and tools</h3>
   
-  ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,regex,github,git,html,css,cpp,c,md,vim,neovim,lua&theme=dark)
+  ![My Skills](https://skillicons.dev/icons?i=python,linux,bash,regex,github,git,html,css,cpp,c,md,vscode,vim,neovim,lua&theme=dark)
   
 </div>
 
@@ -50,8 +50,8 @@
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div align="center">
     <br />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,000000,c23616&text_color=B1B1B1&border_radius=10&hide_border=true" />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,c23616,000000&text_color=fff&border_radius=10&hide_border=true&layout=compact" />
+    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,000000,c23616&text_color=B1B1B1&border_radius=16&hide_border=true" />
+    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=fff&icon_color=fff&bg_color=0,c23616,000000&text_color=fff&border_radius=16&hide_border=true&layout=compact" />
   </div>
   <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
