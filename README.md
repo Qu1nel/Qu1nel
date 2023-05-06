@@ -62,5 +62,5 @@
 <div align="center">
   <a href="https://www.codewars.com/users/Qu1nel"><img src="https://www.codewars.com/users/Qu1nel/badges/large" alt="Codewars stats"/></a>
   <br /><br />
-  <p><a href="https://wakatime.com/@6efc9f56-8f60-4806-a65f-c4e46651bbd0"><img src="https://wakatime.com/badge/user/6efc9f56-8f60-4806-a65f-c4e46651bbd0.svg?style=flat-square"  alt="Wakatime-statistic" /></a> <a href="https://github.com/Qu1nel"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet"  alt="GitHub-views" /></a></p>
+  <p><a href="https://wakatime.com/@Qu1nel"><img src="https://wakatime.com/badge/user/3fedd82f-f089-4dc3-ba5d-2cb37abf71a1.svg?style=flat-square"  alt="Wakatime-statistic" /></a> <a href="https://github.com/Qu1nel"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet"  alt="GitHub-views" /></a></p>
 </div>
