@@ -24,7 +24,7 @@
   <h3>Information</h3>
   <img align="right" alt="Literally me.." height="250" src="./src/gifs/poor_mouse.gif" />
   <br />
-  <li>🤍 I’m currently working on <a href="https://github.com/Qu1nel/Life" ><b>Cellular Automaton</b></a></li><br />
+  <li>🤍 I’m currently working on <a href="https://github.com/Qu1nel/Life" ><b>...</b></a></li><br />
   <li>❤️ I’m currently learning <b>math</b></li><br />
   <li>🤍 A passionate Self-taught developer</li><br />
   <li>❤️ Fun fact: <b>I confuse left and right side</b></li><br />
