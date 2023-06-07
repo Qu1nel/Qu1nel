@@ -20,7 +20,7 @@
 <br /><br />
 
 <ul>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Covach;I'm+passionate+Self-taught+Developer;I'm+a+Student;I'm+a+Teenager!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Kovach;I'm+passionate+Self-taught+Developer;I'm+a+Student;I'm+a+Teenager!!" />
   <h3>Information</h3>
   <img align="right" alt="Literally me.." height="250" src="./src/gifs/poor_mouse.gif" />
   <br />
