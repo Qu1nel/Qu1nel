@@ -60,6 +60,8 @@
 <img src="https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Qu1nel&cc=000&tc=fff&ic=fff&bc=000" />
+  
   <a href="https://www.codewars.com/users/Qu1nel"><img src="https://www.codewars.com/users/Qu1nel/badges/large" alt="Codewars stats"/></a>
   <br /><br />
   <p><a href="https://wakatime.com/@Qu1nel"><img src="https://wakatime.com/badge/user/3fedd82f-f089-4dc3-ba5d-2cb37abf71a1.svg?style=flat-square"  alt="Wakatime-statistic" /></a> <a href="https://github.com/Qu1nel"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=blueviolet"  alt="GitHub-views" /></a></p>
