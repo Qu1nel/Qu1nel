@@ -60,7 +60,7 @@
 <img src="https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Qu1nel&cc=000&tc=fff&ic=fff&bc=000" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Qu1nel&cc=111&tc=fff&ic=fff&bc=000" />
   
   <a href="https://www.codewars.com/users/Qu1nel"><img src="https://www.codewars.com/users/Qu1nel/badges/large" alt="Codewars stats"/></a>
   <br /><br />
