@@ -55,7 +55,6 @@
   </div>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
 </details>
 
 <img src="https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
