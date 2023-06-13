@@ -54,6 +54,7 @@
     <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=fff&icon_color=fff&bg_color=0,c23616,000000&text_color=fff&border_radius=16&hide_border=true&layout=compact" />
   </div>
   <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
 </details>
 
