@@ -57,7 +57,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
 </details>
 
-<img src="https://github.com/Qu1nel/Qu1nel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Qu1nel&cc=111&tc=fff&ic=fff&bc=000" />
