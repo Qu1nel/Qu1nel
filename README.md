@@ -50,11 +50,12 @@
   <summary><b>💻 GitHub Profile Statistics</b></summary>
   <div align="center">
     <br />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&hide_title=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&bg_color=1,000000,c23616&text_color=B1B1B1&border_radius=16&hide_border=true" />
-    <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&show_icons=true&title_color=fff&icon_color=fff&bg_color=0,c23616,000000&text_color=fff&border_radius=16&hide_border=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&theme=shadow_red" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=donut&show_icons=true&langs_count=10&hide=Vim+Script&size_weight=0.5&count_weight=0.5&theme=shadow_red" />
+    <img height="395em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&hide=markdown,Text,conf,Other,Git,textmate,INI,gitignore,sh,zsh,messages,passwd,gitrebase,Log,PythonStub,Vim+Script,GitIgnore+File,ActionScript+3,ca65+assembler,Git+Config,D,Objective-C&theme=shadow_red" />
   </div>
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&color=e84118&bg_color=000&line=e84118&point=dcdde1&custom_title=Contribution%20Graph&radius=16&hide_border=true&height=350" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&bg_color=0d1117&color=444444&line=4F0000&point=1111111&custom_title=Contribution%20Graph&radius=16&height=350&hide_border=true" />
 </details>
 
 <picture>
