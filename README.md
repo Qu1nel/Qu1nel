@@ -52,7 +52,7 @@
     <br />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qu1nel&theme=shadow_red" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&layout=donut&show_icons=true&langs_count=10&hide=Vim+Script&size_weight=0.7&count_weight=0.3&theme=shadow_red" />
-    <img height="395em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&hide=markdown,Text,conf,Other,Git,textmate,INI,gitignore,sh,zsh,messages,passwd,make,gitrebase,Log,PythonStub,Vim+Script,GitIgnore+File,ActionScript+3,ca65+assembler,Git+Config,D,Objective-C,SWIG,BC&theme=shadow_red" />
+    <img height="395em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&theme=shadow_red&hide=markdown,Text,conf,Other,Git,textmate,INI,gitignore,sh,zsh,messages,passwd,make,gitrebase,Log,PythonStub,Vim+Script,GitIgnore+File,ActionScript+3,ca65+assembler,Git+Config,D,Objective-C,SWIG,BC,SSH+key" />
   </div>
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu1nel&bg_color=0d1117&color=444444&line=4F0000&point=1111111&custom_title=Contribution%20Graph&radius=16&height=350&hide_border=true" />
