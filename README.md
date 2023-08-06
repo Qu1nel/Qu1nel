@@ -1,4 +1,4 @@
-<img src="./src/waves.svg" />
+<img src="assert/svg/waves-white.svg" />
 
 <h2 align="center">Hi there, I'm Ivan - aka Qu1nel 👋</h2>
 
@@ -22,13 +22,13 @@
 <ul>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFF&width=600&lines=Welcome+to+my+GitHub+profile!;I'm+a+Ivan+Kovach;I'm+passionate+Self-taught+Developer;I'm+a+Student;I'm+a+Teenager!!" />
   <h3>Information</h3>
-  <img align="right" alt="Literally me.." height="250" src="./src/gifs/poor_mouse.gif" />
+  <img align="right" alt="Literally me.." height="250" src="assert/gifs/poor_mouse.gif" />
   <br />
   <li>🤍 I’m currently working on <a href="#" ><b>...</b></a></li><br />
   <li>❤️ I’m currently learning <b>math</b></li><br />
   <li>🤍 A passionate Self-taught developer</li><br />
   <li>❤️ Fun fact: <b>I confuse left and right side</b></li><br />
-  <li><p> 🤍 <i>I’m currently working on this page.</i> <img align="center" src="./src/gifs/kit.gif" width="5%"> </p></li>
+  <li><p> 🤍 <i>I’m currently working on this page.</i> <img align="center" src="assert/gifs/cat.gif" width="5%"> </p></li>
 </ul>
 
 <br /><br /><br />
@@ -43,7 +43,7 @@
 <br />
 
 <h2>
-  <img src="./src/gifs/git_cat.gif" height="38px"> <b>Statistics</b>
+  <img src="assert/gifs/git.gif" height="38px"> <b>Statistics</b>
 </h2>
 
 <details> 
