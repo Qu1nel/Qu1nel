@@ -16,8 +16,6 @@
   </samp>
 </div>
 
-<img align="left" src="assert/img/crow.png" alt="crow" />
-
 <p align="center">
   <samp>
     Purposeful self-taught programmer with a good low-level understanding of hardware and an equally strong understanding of the software development lifecycle.
@@ -95,6 +93,8 @@
 <br />
 
 <h2><samp>&gt; Contact info:</samp></h2>
+
+<img height="135px" align="right" src="assert/img/crow-right.png" alt="crow" />
 
 <p>
   <a href="https://t.me/qnllqq">
