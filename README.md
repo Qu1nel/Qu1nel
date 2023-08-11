@@ -82,7 +82,7 @@
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qu1nel&theme=swift" alt="GitHub metric" />
   <details align="center">
     <summary><samp>&#9776; Top Languages (time)</samp></summary>
-    <img height="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&title_color=000&icon_color=f00&custom_title=Wakatimie+(last+year)&langs_count=16&hide=Text,conf,textmate,Vim+Script,Git,Other,gitignore,gitrebase,Log,INI,make,Markdown,passwd,sh,GitIgnore+file,SWIG,BC,requirements.txt,Git+Config" />
+    <img height="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&title_color=000&icon_color=f00&custom_title=Wakatimie+(last+year)&langs_count=16&hide=Text,conf,textmate,Vim+Script,Git,Other,gitignore,gitrebase,Log,INI,make,Markdown,passwd,sh,GitIgnore+file,SWIG,BC,requirements.txt,Git+Config,gitattributes" />
   </details>
 </details>
 
