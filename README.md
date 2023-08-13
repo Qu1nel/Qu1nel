@@ -1,4 +1,4 @@
-<img src="assert/svg/waves-white.svg" />
+<img src=".github/assets/svg/waves-white.svg" />
 
 <div id="user-content-toc" align="center">
   <ul>
@@ -94,7 +94,7 @@
 
 <h2><samp>&gt; Contact info:</samp></h2>
 
-<img height="135px" align="right" src="assert/img/crow-right.png" alt="crow" />
+<img height="135px" align="right" src=".github/assets/img/crow-right.png" alt="crow" />
 
 <p>
   <a href="https://t.me/qnllqq">
