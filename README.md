@@ -38,6 +38,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-46a2f1?style=flat-square&logo=gnometerminal&logoColor=black&color=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=black&color=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=black&color=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black&color=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-46a2f1?style=flat-square&logo=github&logoColor=black&color=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black&color=white" />
