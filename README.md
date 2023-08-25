@@ -38,7 +38,6 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
   <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-46a2f1?style=flat-square&logo=gnometerminal&logoColor=black&color=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=black&color=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-46a2f1?style=flat-square&logo=windows10&logoColor=black&color=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black&color=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-46a2f1?style=flat-square&logo=github&logoColor=black&color=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black&color=white" />
@@ -48,15 +47,7 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-46a2f1?style=flat-square&logo=markdown&logoColor=black&color=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black&color=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=black&color=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-46a2f1?style=flat-square&logo=visualstudio&logoColor=black&color=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-46a2f1?style=flat-square&logo=visualstudiocode&logoColor=black&color=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-46a2f1?style=flat-square&logo=pycharm&logoColor=black&color=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-46a2f1?style=flat-square&logo=neovim&logoColor=black&color=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/-Vim-46a2f1?style=flat-square&logo=vim&logoColor=black&color=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-46a2f1?style=flat-square&logo=adobephotoshop&logoColor=black&color=white" />
-  <img alt="Adobe Premier pro" src="https://img.shields.io/badge/-Premier%20Pro-46a2f1?style=flat-square&logo=adobepremierepro&logoColor=black&color=white" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-46a2f1?style=flat-square&logo=obsidian&logoColor=black&color=white" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/-Notion-46a2f1?style=flat-square&logo=notion&logoColor=black&color=white" />
 </p>
 
 <h2><samp>&gt; Stats:</samp></h2>
