@@ -36,9 +36,8 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=black&color=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-46a2f1?style=flat-square&logo=lua&logoColor=black&color=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
-  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-46a2f1?style=flat-square&logo=gnometerminal&logoColor=black&color=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=black&color=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=black&color=white" />
+  <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-46a2f1?style=flat-square&logo=poetry&logoColor=black&color=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black&color=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-46a2f1?style=flat-square&logo=github&logoColor=black&color=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black&color=white" />
@@ -49,6 +48,8 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black&color=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=black&color=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-46a2f1?style=flat-square&logo=neovim&logoColor=black&color=white" />
+  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-46a2f1?style=flat-square&logo=gnometerminal&logoColor=black&color=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=black&color=white" />
 </p>
 
 <h2><samp>&gt; Stats:</samp></h2>
