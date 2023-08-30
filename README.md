@@ -87,7 +87,7 @@
 
 <h2><samp>&gt; Contact info:</samp></h2>
 
-<img height="135px" align="right" src=".github/assets/img/crow-right.png" alt="crow" />
+<img height="135px" align="right" src=".github/assets/img/crow-right-purple.png" alt="crow" />
 
 <p>
   <a href="https://t.me/qnllqq">
