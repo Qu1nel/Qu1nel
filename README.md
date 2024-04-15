@@ -66,6 +66,9 @@
   <a href="https://wakatime.com/@Qu1nel">
     <img src="https://wakatime.com/badge/user/3fedd82f-f089-4dc3-ba5d-2cb37abf71a1.svg?style=social"  alt="Wakatime statistic" />
   </a>
+  <a href="https://www.codewars.com/users/Qu1nel">
+    <img src="https://www.codewars.com/users/Qu1nel/badges/micro" alt="CodeWars Stat" />
+  </a>
   <a href="https://github.com/Qu1nel">
     <img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=ACACAC"  alt="GitHub profile views" />
   </a>
@@ -74,7 +77,8 @@
 <details align="center">
   <summary><samp>&#9776; More</samp></summary>
   <div align="center">
-    <a href="https://metrics.lecoq.io/Qu1nel?template=classic&isocalendar=1&isocalendar.duration=full-year"><i><b>Metrics</b></i></a>
+    <br />
+    <img src="https://stats.justsong.cn/api/leetcode/?username=Qu1nel" alt="LeetCode Stat" />
     <br />
     <img height="210em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Qu1nel&title_color=000&line_height=27&show_icons=true&custom_title=as23f&icon_color=ff0000" alt="GitHub metric" />
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&title_color=000&text_color=000&langs_count=6&layout=donut&hide=Vim+Script,Markdown&size_weight=0.6&count_weight=0.6&custom_title=Popular+languages+in+repositories" alt="GitHub metric" />
@@ -94,6 +98,7 @@
 <br />
 
 <h2><samp>&gt; Contact info:</samp></h2>
+
 
 <img height="135px" align="right" src=".github/assets/img/crow-right-purple.png" alt="crow" />
 
