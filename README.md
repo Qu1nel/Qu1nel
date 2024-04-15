@@ -33,9 +33,14 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/-language%20C-45b8d8?style=flat-square&logo=c&logoColor=black&color=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-8DD6F9?style=flat-square&logo=cplusplus&logoColor=black&color=white" /> 
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-8DD6F9?style=flat-square&logo=csharp&logoColor=black&color=white" /> 
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-8DD6F9?style=flat-square&logo=rust&logoColor=black&color=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=black&color=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-8DD6F9?style=flat-square&logo=go&logoColor=black&color=white" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=javascript&logoColor=black&color=white" /> 
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-46a2f1?style=flat-square&logo=lua&logoColor=black&color=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-8DD6F9?style=flat-square&logo=django&logoColor=black&color=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-46a2f1?style=flat-square&logo=mysql&logoColor=black&color=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=black&color=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-46a2f1?style=flat-square&logo=sqlite&logoColor=black&color=white" />
