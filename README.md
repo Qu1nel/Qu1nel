@@ -36,6 +36,9 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=black&color=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-46a2f1?style=flat-square&logo=lua&logoColor=black&color=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-46a2f1?style=flat-square&logo=mysql&logoColor=black&color=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=black&color=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-46a2f1?style=flat-square&logo=sqlite&logoColor=black&color=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=black&color=white" />
   <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-46a2f1?style=flat-square&logo=poetry&logoColor=black&color=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black&color=white" />
