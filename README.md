@@ -81,7 +81,7 @@
     <img src="https://stats.justsong.cn/api/leetcode/?username=Qu1nel" alt="LeetCode Stat" />
     <br />
     <img height="210em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Qu1nel&title_color=000&line_height=27&show_icons=true&custom_title=as23f&icon_color=ff0000" alt="GitHub metric" />
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&title_color=000&text_color=000&langs_count=6&layout=donut&hide=Vim+Script,Markdown&size_weight=0.6&count_weight=0.6&custom_title=Popular+languages+in+repositories" alt="GitHub metric" />
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&title_color=000&text_color=000&langs_count=6&layout=donut&hide=Vim+Script,Markdown,Makefile&size_weight=0.9&count_weight=0.5&custom_title=Popular+languages+in+repositories" alt="GitHub metric" />
   </dib>
   <br />
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qu1nel&theme=swift" alt="GitHub metric" />
