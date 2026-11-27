@@ -13,7 +13,7 @@
 <details>
 <summary>Inside the projects</summary>
 
-<p><br></p>
+<p></p>
 
 <p><strong>SaaS backend</strong></p>
 <p>Each storefront has its own Telegram bot. Customers can place an order in chat, pay with Telegram Stars and see the same order status on the website. I track wallet balances in PostgreSQL using an append-only, double-entry ledger.</p>
