@@ -1,122 +1,71 @@
-<img src=".github/assets/svg/waves-white.svg" />
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/wave-dark.svg"><img src="assets/art/wave-light.svg" width="100%" alt=""></picture></p>
 
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary>
-    <h1 style="display: inline-block;">
-    <samp>&gt; Hey There! I'm Qu1nel</samp>
-    </h1>
-    </summary>
-  </ul>
-  <samp>
-    「 I'm a self-taught. 」<br />
-    「 The credo in life is eternal beginner in everything. 」<br />
-    「 I'm someone who is passionate about GNU/Linux and likes freedom, rice, write code and freedom. 」<br />
-    <h2></h2>
-  </samp>
-</div>
+# <samp>&gt; Ivan Kovach</samp>
 
-<p align="center">
-  <samp>
-    Purposeful self-taught programmer with a good low-level understanding of hardware and an equally strong understanding of the software development lifecycle.
-    Interested more in Computer Science than Web, so inclined to learn fundamental things in programming than learning the 100th framework that will join the list of obsolete ones anyway..
-  </samp>
-  <br />
-  <samp>
-    Better to spend time on linear algebra, at least you can be a bit more unique with it :3
-  </samp>
-</p>
+<p>I learned to program by making things I wanted to try. I have a soft spot for Linux and linear algebra. I built the Go backend for a SaaS product and now I’m working on its admin tools. Give me an afternoon with a cellular automaton and I’ll probably spend it changing one rule to see what happens.</p>
 
-<br />
+## Selected work
 
-<h2><samp>&gt; Tech Stack:</samp></h2>
-<p>
-  <img alt="C" src="https://img.shields.io/badge/-language%20C-45b8d8?style=flat-square&logo=c&logoColor=black&color=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-8DD6F9?style=flat-square&logo=cplusplus&logoColor=black&color=white" /> 
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-8DD6F9?style=flat-square&logo=csharp&logoColor=black&color=white" /> 
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-8DD6F9?style=flat-square&logo=rust&logoColor=black&color=white" /> 
-  <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=Python&logoColor=black&color=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-8DD6F9?style=flat-square&logo=go&logoColor=black&color=white" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8DD6F9?style=flat-square&logo=javascript&logoColor=black&color=white" /> 
-  <img alt="Lua" src="https://img.shields.io/badge/-Lua-46a2f1?style=flat-square&logo=lua&logoColor=black&color=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-46a2f1?style=flat-square&logo=gnubash&logoColor=black&color=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-8DD6F9?style=flat-square&logo=django&logoColor=black&color=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-46a2f1?style=flat-square&logo=mysql&logoColor=black&color=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=black&color=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-46a2f1?style=flat-square&logo=sqlite&logoColor=black&color=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=black&color=white" />
-  <img alt="Poetry" src="https://img.shields.io/badge/-Poetry-46a2f1?style=flat-square&logo=poetry&logoColor=black&color=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black&color=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-46a2f1?style=flat-square&logo=github&logoColor=black&color=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=black&color=white" />
-  <img alt="Pre-commit" src="https://img.shields.io/badge/-pre%20commit-46a2f1?style=flat-square&logo=precommit&logoColor=black&color=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/-YAML-46a2f1?style=flat-square&logo=yaml&logoColor=black&color=white" />
-  <img alt="TOML" src="https://img.shields.io/badge/-TOML-46a2f1?style=flat-square&logo=toml&logoColor=black&color=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-46a2f1?style=flat-square&logo=markdown&logoColor=black&color=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black&color=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=black&color=white" />
-  <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-46a2f1?style=flat-square&logo=neovim&logoColor=black&color=white" />
-  <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-46a2f1?style=flat-square&logo=gnometerminal&logoColor=black&color=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Arch%20Linux-46a2f1?style=flat-square&logo=archlinux&logoColor=black&color=white" />
-</p>
+<table width="100%">
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/backend-dark.svg"><img src="assets/art/backend-light.svg" width="100%" alt="From a guest order to a confirmation email."></picture><p><strong>What happens after a guest checks out?</strong></p><p>SaaS backend</p><p>I built a Go backend for two storefronts and their Telegram bots. Guests can pay on the web without creating an account and get an email telling them whether their order was fulfilled or declined. <em>The source code is private.</em></p></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/grader-dark.svg"><img src="assets/art/grader-light.svg" width="100%" alt="Arcade, Web/API and ML checks feed into a report for the student."></picture><p><strong>Can an autograder play a student’s game?</strong></p><p>Yandex Contest autograder</p><p>I built a scenario-based autograder for Yandex Contest. For games written with Python’s Arcade library, it replays a player’s moves in a headless Linux container, compares the frames with a reference run and tells the student which check failed.</p></td></tr>
+</table>
 
-<h2><samp>&gt; Stats:</samp></h2>
+<details>
+<summary>Inside the projects</summary>
 
-<p>
-  <a href="https://wakatime.com/@Qu1nel">
-    <img src="https://wakatime.com/badge/user/3fedd82f-f089-4dc3-ba5d-2cb37abf71a1.svg?style=social"  alt="Wakatime statistic" />
-  </a>
-  <a href="https://www.codewars.com/users/Qu1nel">
-    <img src="https://www.codewars.com/users/Qu1nel/badges/micro" alt="CodeWars Stat" />
-  </a>
-  <a href="https://github.com/Qu1nel">
-    <img src="https://komarev.com/ghpvc/?username=Qu1nelw&style=flat-square&color=ACACAC"  alt="GitHub profile views" />
-  </a>
-</p>
+<p><strong>SaaS backend</strong></p>
+<p>Each storefront has its own Telegram bot. Customers can place an order in chat, pay with Telegram Stars and see the same order status on the website. I track wallet balances in PostgreSQL using an append-only, double-entry ledger.</p>
+<p><strong>What if the same payment confirmation arrives twice?</strong> My integration test sends the confirmation twice and checks that the payment is applied to the order only once. I also test concurrent debits and check successful and error responses against the OpenAPI contract. The Go test files contain just over twice as many lines as the rest of the handwritten Go code.</p>
+<p><strong>Yandex Contest autograder</strong></p>
+<p>Authors describe actions and expected results in JSON, try the scenario locally and package it for Yandex Contest. The same approach can work for other task types and languages once you define how to run the submission and what to observe.</p>
+<p>My Web/API pilot supplies HTTP responses and checks the requests a submission sends. For ML tasks, I check how the program splits the data and trains a model. I plan to bring the Arcade runner into <a href="https://github.com/Qu1nel/PythonCodeTester">PythonCodeTester</a> first.</p>
 
-<details align="center">
-  <summary><samp>&#9776; More</samp></summary>
-  <div align="center">
-    <br />
-    <img src="https://stats.justsong.cn/api/leetcode/?username=Qu1nel" alt="LeetCode Stat" />
-    <br />
-    <img height="210em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Qu1nel&title_color=000&line_height=27&show_icons=true&custom_title=as23f&icon_color=ff0000" alt="GitHub metric" />
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qu1nel&title_color=000&text_color=000&langs_count=6&layout=donut&hide=Vim+Script,Markdown,Makefile&size_weight=0.9&count_weight=0.5&custom_title=Popular+languages+in+repositories" alt="GitHub metric" />
-  </dib>
-  <br />
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qu1nel&theme=swift" alt="GitHub metric" />
-  <details align="center">
-    <summary><samp>&#9776; Top Languages (time)</samp></summary>
-    <img height="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Qu1nel&layout=compact&title_color=000&icon_color=f00&custom_title=Wakatimie+(last+year)&langs_count=16&hide=Text,conf,textmate,Vim+Script,Git,Other,gitignore,gitrebase,Log,INI,make,Markdown,passwd,sh,GitIgnore+file,SWIG,BC,requirements.txt,Git+Config,gitattributes,GDScript,vhs,Ezhil" />
-  </details>
 </details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Qu1nel/Qu1nel/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
-</div>
+<details>
+<summary>More projects</summary>
 
-<br />
+<table width="100%">
+<tr><td width="33%" valign="top"><a href="https://github.com/Qu1nel/Cardioid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/cardioid-dark.svg"><img src="assets/art/cardioid-light.svg" width="100%" alt="Cardioid"></picture></a><p><strong><a href="https://github.com/Qu1nel/Cardioid">Cardioid</a></strong></p><p>Straight lines between points on a circle trace a changing curve in Pygame.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/CellularAutomaton"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/cellular-dark.svg"><img src="assets/art/cellular-light.svg" width="100%" alt="Cellular Automaton"></picture></a><p><strong><a href="https://github.com/Qu1nel/CellularAutomaton">Cellular Automaton</a></strong></p><p>I built a simulator where you can choose which cells count as neighbours, set the rules for birth and survival, and watch the pattern evolve.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/2048"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/2048-dark.svg"><img src="assets/art/2048-light.svg" width="100%" alt="2048"></picture></a><p><strong><a href="https://github.com/Qu1nel/2048">2048</a></strong></p><p>My first personal project, built with Pygame two and a half months after I started learning Python.</p></td></tr>
+<tr><td width="33%" valign="top"><a href="https://github.com/Qu1nel/Print"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/print-dark.svg"><img src="assets/art/print-light.svg" width="100%" alt="Print in C"></picture></a><p><strong><a href="https://github.com/Qu1nel/Print">Print in C</a></strong></p><p>I wanted Python’s <code>print()</code> in C, so I wrote a macro that formats each argument by type.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/PythonCodeValidator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/validator-dark.svg"><img src="assets/art/validator-light.svg" width="100%" alt="Python Code Validator"></picture></a><p><strong><a href="https://github.com/Qu1nel/PythonCodeValidator">Python Code Validator</a></strong></p><p>Course authors can check a Python submission without running it. A JSON rule can inspect the syntax tree for a <code>solve()</code> function. <a href="https://pypi.org/project/python-code-validator/">Package on PyPI</a>.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/Algorithms"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/algorithms-dark.svg"><img src="assets/art/algorithms-light.svg" width="100%" alt="Algorithms"></picture></a><p><strong><a href="https://github.com/Qu1nel/Algorithms">Algorithms</a></strong></p><p>My notes on why algorithms work, what they cost and how their implementations behave.</p></td></tr>
+</table>
 
-<h2><samp>&gt; Contact info:</samp></h2>
+</details>
 
+## Toolbox
 
-<img height="135px" align="right" src=".github/assets/img/crow-right-purple.png" alt="crow" />
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-go-dark.svg"><img src="assets/badges/badge-go-light.svg" width="61" alt="Go"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-python-dark.svg"><img src="assets/badges/badge-python-light.svg" width="88" alt="Python"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-postgresql-dark.svg"><img src="assets/badges/badge-postgresql-light.svg" width="119" alt="PostgreSQL"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-openapi-dark.svg"><img src="assets/badges/badge-openapi-light.svg" width="96" alt="OpenAPI"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-docker-dark.svg"><img src="assets/badges/badge-docker-light.svg" width="88" alt="Docker"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-linux-dark.svg"><img src="assets/badges/badge-linux-light.svg" width="80" alt="Linux"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-github-actions-dark.svg"><img src="assets/badges/badge-github-actions-light.svg" width="136" alt="GitHub Actions"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/badge-pytest-dark.svg"><img src="assets/badges/badge-pytest-light.svg" width="78" alt="pytest"></picture></p>
 
-<p>
-  <a href="https://t.me/qnllqq">
-    <img src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=black&color=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:covach.qn@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=black&color=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Qu1nel">
-    <img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?&style=for-the-badge&logo=GitHub&logoColor=black&color=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.codewars.com/users/Qu1nel">
-    <img src="https://img.shields.io/badge/Codewars-%2312100E.svg?&style=for-the-badge&logo=Codewars&logoColor=black&color=white" alt="Codewars"/>
-  </a>
-</p>
+<details>
+<summary>Full toolbox</summary>
 
-<a href="https://www.buymeacoffee.com/Quinel">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy me a Coffee" height="40" width="205" >
-</a>
+<table width="100%">
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-0-now-icons-dark.svg"><img src="assets/toolbox/group-0-now-icons-light.svg" width="100%" alt="Languages &amp; scripting · Python, Go, C, C++, C#, Rust, JavaScript, Lua, Bash, SQL"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-1-now-icons-dark.svg"><img src="assets/toolbox/group-1-now-icons-light.svg" width="100%" alt="Data &amp; formats · PostgreSQL, Redis, SQLite, MySQL, JSON, YAML, TOML"></picture></td></tr>
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-2-now-icons-dark.svg"><img src="assets/toolbox/group-2-now-icons-light.svg" width="100%" alt="Web &amp; libraries · Django, NumPy, Arcade, Pygame, HTML5, CSS3, Markdown, OpenAPI, Swagger UI, Numba, HTTP APIs, Sphinx"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-3-now-icons-dark.svg"><img src="assets/toolbox/group-3-now-icons-light.svg" width="100%" alt="Developer tools · Git, GitHub, Poetry, uv, pre-commit, Neovim, Terminal, GitLab, pytest, Ruff, ty, coverage.py, Postman, Playwright"></picture></td></tr>
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-4-now-icons-dark.svg"><img src="assets/toolbox/group-4-now-icons-light.svg" width="100%" alt="Agent workflows · Agent skills, Hooks, Agent evals"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/group-5-now-icons-dark.svg"><img src="assets/toolbox/group-5-now-icons-light.svg" width="100%" alt="Systems &amp; delivery · Linux, Arch Linux, Docker, GitHub Actions, Docker Compose, Read the Docs, Codecov, Codacy, GitLab CI/CD, Nginx, systemd"></picture></td></tr>
+</table>
+
+</details>
+
+## Activity
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qu1nel/Qu1nel/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/Qu1nel/Qu1nel/output/github-contribution-grid-snake.svg" width="100%" alt="Daily GitHub contribution snake"></picture></p>
+
+<details>
+<summary>Activity in numbers</summary>
+
+<p><em>Cards refresh weekly. Dates show the last successful check.</em></p><table width="100%">
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/wakatime-dark.svg"><img src="assets/activity/wakatime-light.svg" width="100%" alt="WakaTime coding time by language"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/github-dark.svg"><img src="assets/activity/github-light.svg" width="100%" alt="GitHub contributions and active days"></picture></td></tr>
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/leetcode-dark.svg"><img src="assets/activity/leetcode-light.svg" width="100%" alt="LeetCode problems solved by difficulty"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/codewars-dark.svg"><img src="assets/activity/codewars-light.svg" width="100%" alt="Codewars rank, completed kata and honor"></picture></td></tr>
+<tr><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/euler-dark.svg"><img src="assets/activity/euler-light.svg" width="100%" alt="Documented Project Euler solutions in my repository"></picture></td><td width="50%" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity/pypi-dark.svg"><img src="assets/activity/pypi-light.svg" width="100%" alt="Python Code Validator releases on PyPI"></picture></td></tr>
+</table>
+
+</details>
+
+<p><a href="https://wakatime.com/@Qu1nel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-wakatime-dark.svg"><img src="assets/badges/button-wakatime-light.svg" width="102" alt="WakaTime"></picture></a> <a href="https://www.codewars.com/users/Qu1nel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-codewars-dark.svg"><img src="assets/badges/button-codewars-light.svg" width="102" alt="Codewars"></picture></a> <a href="https://leetcode.com/u/Qu1nel/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-leetcode-dark.svg"><img src="assets/badges/button-leetcode-light.svg" width="102" alt="LeetCode"></picture></a> <a href="https://github.com/Qu1nel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-github-dark.svg"><img src="assets/badges/button-github-light.svg" width="85" alt="GitHub"></picture></a> <a href="https://pypi.org/project/python-code-validator/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-pypi-dark.svg"><img src="assets/badges/button-pypi-light.svg" width="77" alt="PyPI"></picture></a> <a href="https://github.com/Qu1nel/ProjectEuler#problems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-project-euler-dark.svg"><img src="assets/badges/button-project-euler-light.svg" width="140" alt="Project Euler"></picture></a></p>
+
+## Elsewhere
+
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/crow-dark.svg"><img src="assets/art/crow-light.svg" width="79" align="right" alt="Violet crow"></picture> <a href="mailto:covach.qn@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-email-dark.svg"><img src="assets/badges/button-email-light.svg" width="69" alt="Email"></picture></a> <a href="https://t.me/qnllnq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-telegram-dark.svg"><img src="assets/badges/button-telegram-light.svg" width="91" alt="Telegram"></picture></a></p>
+
+<p><br><a href="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;color=75519a&amp;style=flat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;style=flat&amp;color=7B4C40"><img src="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;style=flat&amp;color=9B5F0E" width="145" alt="Profile views"></picture></a></p>

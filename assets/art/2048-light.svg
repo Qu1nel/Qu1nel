@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img" aria-labelledby="title">
+<title id="title">Two matching tiles merge in 2048</title>
+<defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r=".85" fill="#c7bad8"/></pattern>
+<clipPath id="trim"><rect x="1.5" y="1.5" width="357" height="147" rx="10"/></clipPath></defs>
+<rect x="1.5" y="1.5" width="357" height="147" rx="10" fill="#f8f6fc"/>
+<g clip-path="url(#trim)"><rect width="360" height="150" fill="url(#dots)"/><rect x="27" y="43" width="67" height="67" rx="8" fill="#e9e2f4" stroke="#81718f" stroke-width="1.6"/><text x="61" y="89" font-family="Consolas,monospace" font-size="37" font-weight="700" text-anchor="middle" fill="#352943">2</text><rect x="100" y="43" width="67" height="67" rx="8" fill="#e9e2f4" stroke="#81718f" stroke-width="1.6"/><text x="134" y="89" font-family="Consolas,monospace" font-size="37" font-weight="700" text-anchor="middle" fill="#352943">2</text><rect x="249" y="43" width="67" height="67" rx="8" fill="#f6dca6" stroke="#9b5f0e" stroke-width="1.6"/><text x="283" y="89" font-family="Consolas,monospace" font-size="37" font-weight="700" text-anchor="middle" fill="#352943">4</text><path d="M185 77h44m-8-8 8 8-8 8" fill="none" stroke="#664399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" /></g>
+<rect x="1.5" y="1.5" width="357" height="147" rx="10" fill="none" stroke="#81718f" stroke-width="2"/>
+</svg>

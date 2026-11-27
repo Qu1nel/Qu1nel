@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="184" viewBox="0 0 410 184" role="img" aria-labelledby="title desc">
+<title id="title">Codewars</title>
+<desc id="desc">5 kyu, 63 completed kata and 508 honor. Checked 27 Nov 2026.</desc>
+<rect x=".75" y=".75" width="408.5" height="182.5" rx="12" fill="#2B2336" stroke="#766584" stroke-width="1.5"/>
+<text x="19" y="30" fill="#F1E9FA" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="20" font-weight="680" text-anchor="start">Codewars</text>
+<path d="M19 44H391M19 153H391" stroke="#493A55" fill="none"/>
+<path d="M34 64H65L82 96L65 128H34L17 96Z" fill="#714338" stroke="#FFA48A"/><text x="49.5" y="102" fill="#F1E9FA" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="14" font-weight="650" text-anchor="middle">5 kyu</text><text x="133" y="98" fill="#F1E9FA" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="650" text-anchor="start">63</text><text x="133" y="120" fill="#D0C1DC" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5" font-weight="500" text-anchor="start">completed kata</text><text x="279" y="98" fill="#F1E9FA" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="31" font-weight="650" text-anchor="start">508</text><text x="279" y="120" fill="#D0C1DC" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12.5" font-weight="500" text-anchor="start">honor</text>
+<text x="19" y="173" fill="#D0C1DC" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="500" text-anchor="start">Programming challenges · Checked 27 Nov 2026</text>
+</svg>

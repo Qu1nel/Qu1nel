@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150" role="img" aria-labelledby="title">
+<title id="title">Type selection in C</title>
+<defs><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r=".85" fill="#4e405c"/></pattern>
+<clipPath id="trim"><rect x="1.5" y="1.5" width="357" height="147" rx="10"/></clipPath></defs>
+<rect x="1.5" y="1.5" width="357" height="147" rx="10" fill="#201a29"/>
+<g clip-path="url(#trim)"><rect width="360" height="150" fill="url(#dots)"/><rect x="23" y="30" width="196" height="90" rx="6" fill="#2b2336" stroke="#766584" stroke-width="1.4"/><text x="39" y="58" font-family="Consolas,monospace" font-size="21" font-weight="650" text-anchor="start" fill="#f1e9fa">_Generic</text><path d="M40 70h152" fill="none" stroke="#4e405c" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" /><text x="40" y="96" font-family="Consolas,monospace" font-size="15" font-weight="500" text-anchor="start" fill="#d0c1dc">int</text><text x="103" y="96" font-family="Consolas,monospace" font-size="15" font-weight="500" text-anchor="start" fill="#ffa48a">char *</text><path d="M220 74h24m-5-4 5 4-5 4" fill="none" stroke="#c9a6f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><rect x="255" y="50" width="77" height="50" rx="6" fill="#382b46" stroke="#c9a6f1" stroke-width="1.5"/><text x="294" y="82" font-family="Consolas,monospace" font-size="24" font-weight="500" text-anchor="middle" fill="#f1e9fa">&gt;_</text></g>
+<rect x="1.5" y="1.5" width="357" height="147" rx="10" fill="none" stroke="#766584" stroke-width="2"/>
+</svg>

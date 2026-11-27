@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="182" viewBox="0 0 410 182" role="img" aria-labelledby="group-title">
+  <title id="group-title">Web &amp; libraries · Django, NumPy, Arcade, Pygame, HTML5, CSS3, Markdown, OpenAPI, Swagger UI, Numba, HTTP APIs, Sphinx</title>
+  <rect x=".85" y=".85" width="408.3" height="180.3" rx="13" fill="#201A29" stroke="#766584" stroke-width="1.7" />
+  <rect x="18" y="14" width="24" height="24" rx="7" fill="#714338" />
+  <svg x="23" y="19" width="14" height="14" viewBox="0 0 24 24" color="#FFA48A" fill="#FFA48A">
+    <path d="M11.146 0h3.924v18.166c-2.013.382-3.491.535-5.096.535-4.791 0-7.288-2.166-7.288-6.32 0-4.002 2.65-6.6 6.753-6.6.637 0 1.121.05 1.707.203zm0 9.143a3.894 3.894 0 00-1.325-.204c-1.988 0-3.134 1.223-3.134 3.365 0 2.09 1.096 3.236 3.109 3.236.433 0 .79-.025 1.35-.102V9.142zM21.314 6.06v9.098c0 3.134-.229 4.638-.917 5.937-.637 1.249-1.478 2.039-3.211 2.905l-3.644-1.733c1.733-.815 2.574-1.53 3.109-2.625.561-1.121.739-2.421.739-5.835V6.059h3.924zM17.39.021h3.924v4.026H17.39z" fill="currentColor" />
+  </svg>
+  <text x="52" y="32" fill="#F1E9FA" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-weight="650" font-size="18">Web &amp; libraries</text>
+  <path d="M18 48H392" stroke="#766584" opacity=".65" />
+  <svg x="18" y="57" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M11.146 0h3.924v18.166c-2.013.382-3.491.535-5.096.535-4.791 0-7.288-2.166-7.288-6.32 0-4.002 2.65-6.6 6.753-6.6.637 0 1.121.05 1.707.203zm0 9.143a3.894 3.894 0 00-1.325-.204c-1.988 0-3.134 1.223-3.134 3.365 0 2.09 1.096 3.236 3.109 3.236.433 0 .79-.025 1.35-.102V9.142zM21.314 6.06v9.098c0 3.134-.229 4.638-.917 5.937-.637 1.249-1.478 2.039-3.211 2.905l-3.644-1.733c1.733-.815 2.574-1.53 3.109-2.625.561-1.121.739-2.421.739-5.835V6.059h3.924zM17.39.021h3.924v4.026H17.39z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="68" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Django</text>
+  <svg x="217" y="57" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="m3 7 9-4 9 4-9 5zM3 7v10l9 4 9-4V7m-9 5v9m-5-12v10m10-10v10" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="68" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">NumPy</text>
+  <svg x="18" y="74" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M3 4h18v14H3zM7 21h10m-6-8 2-4 2 4m-8 2h4" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="85" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Arcade</text>
+  <svg x="217" y="74" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M10 8h4m-8 2v6m-3-3h6m7-1h.01m3 3h.01M8 7c-3-2-6 2-7 8s3 6 6 2h10c3 4 7 4 6-2s-4-10-7-8" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="85" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Pygame</text>
+  <svg x="18" y="91" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="102" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">HTML5</text>
+  <svg x="217" y="91" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M0 0v20.16A3.84 3.84 0 0 0 3.84 24h16.32A3.84 3.84 0 0 0 24 20.16V3.84A3.84 3.84 0 0 0 20.16 0Zm14.256 13.08c1.56 0 2.28 1.08 2.304 2.64h-1.608c.024-.288-.048-.6-.144-.84-.096-.192-.288-.264-.552-.264-.456 0-.696.264-.696.84-.024.576.288.888.768 1.08.72.288 1.608.744 1.92 1.296q.432.648.432 1.656c0 1.608-.912 2.592-2.496 2.592-1.656 0-2.4-1.032-2.424-2.688h1.68c0 .792.264 1.176.792 1.176.264 0 .456-.072.552-.24.192-.312.24-1.176-.048-1.512-.312-.408-.912-.6-1.32-.816q-.828-.396-1.224-.936c-.24-.36-.36-.888-.36-1.536 0-1.44.936-2.472 2.424-2.448m5.4 0c1.584 0 2.304 1.08 2.328 2.64h-1.608c0-.288-.048-.6-.168-.84-.096-.192-.264-.264-.528-.264-.48 0-.72.264-.72.84s.288.888.792 1.08c.696.288 1.608.744 1.92 1.296.264.432.408.984.408 1.656.024 1.608-.888 2.592-2.472 2.592-1.68 0-2.424-1.056-2.448-2.688h1.68c0 .744.264 1.176.792 1.176.264 0 .456-.072.552-.24.216-.312.264-1.176-.048-1.512-.288-.408-.888-.6-1.32-.816-.552-.264-.96-.576-1.2-.936s-.36-.888-.36-1.536c-.024-1.44.912-2.472 2.4-2.448m-11.031.018c.711-.006 1.419.198 1.839.63.432.432.672 1.128.648 1.992H9.336c.024-.456-.096-.792-.432-.96-.312-.144-.768-.048-.888.24-.12.264-.192.576-.168.864v3.504c0 .744.264 1.128.768 1.128a.65.65 0 0 0 .552-.264c.168-.24.192-.552.168-.84h1.776c.096 1.632-.984 2.712-2.568 2.688-1.536 0-2.496-.864-2.472-2.472v-4.032c0-.816.24-1.44.696-1.848.432-.408 1.146-.624 1.857-.63" fill="#C9A6F1" />
+  </svg>
+  <text x="238" y="102" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">CSS3</text>
+  <svg x="18" y="108" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M22.27 19.385H1.73A1.73 1.73 0 010 17.655V6.345a1.73 1.73 0 011.73-1.73h20.54A1.73 1.73 0 0124 6.345v11.308a1.73 1.73 0 01-1.73 1.731zM5.769 15.923v-4.5l2.308 2.885 2.307-2.885v4.5h2.308V8.078h-2.308l-2.307 2.885-2.308-2.885H3.46v7.847zM21.232 12h-2.309V8.077h-2.307V12h-2.308l3.461 4.039z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="119" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Markdown</text>
+  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" x="217" y="108">
+    <path d="M7.8 3.5H6.6C5 3.5 5 5 5 6v3.3c0 1.3-.8 2.2-2 2.7 1.2.5 2 1.4 2 2.7V18c0 1 0 2.5 1.6 2.5h1.2m8.4-17h1.2c1.6 0 1.6 1.5 1.6 2.5v3.3c0 1.3.8 2.2 2 2.7-1.2.5-2 1.4-2 2.7V18c0 1 0 2.5-1.6 2.5h-1.2M9 12h.2m2.7 0h.2m2.7 0h.2" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="119" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">OpenAPI</text>
+  <svg x="18" y="125" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M8 4H7a2 2 0 0 0-2 2v3a3 3 0 0 1-2 3 3 3 0 0 1 2 3v3a2 2 0 0 0 2 2h1m8-16h1a2 2 0 0 1 2 2v3a3 3 0 0 0 2 3 3 3 0 0 0-2 3v3a2 2 0 0 1-2 2h-1m-6-8h.01m4 0h.01" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="136" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Swagger UI</text>
+  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" x="217" y="125">
+    <path d="M3.5 18.5 7 5.5h3l4 8.8 2.5-8.8h4l-3.6 13H14L10 10l-2.5 8.5z" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="136" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Numba</text>
+  <svg x="18" y="142" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M2.5 8h16m-4-4 4 4-4 4m7 4h-16m4-4-4 4 4 4" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="153" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">HTTP APIs</text>
+  <svg x="217" y="142" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M2.5 5.5c3.5-2 6.8-1.5 9.5 1 2.7-2.5 6-3 9.5-1v13c-3.5-2-6.8-1.5-9.5 1-2.7-2.5-6-3-9.5-1zm9.5 1v13" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="153" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Sphinx</text>
+</svg>

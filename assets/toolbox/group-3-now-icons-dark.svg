@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="182" viewBox="0 0 410 182" role="img" aria-labelledby="group-title">
+  <title id="group-title">Developer tools · Git, GitHub, Poetry, uv, pre-commit, Neovim, Terminal, GitLab, pytest, Ruff, ty, coverage.py, Postman, Playwright</title>
+  <rect x=".85" y=".85" width="408.3" height="180.3" rx="13" fill="#201A29" stroke="#766584" stroke-width="1.7" />
+  <rect x="18" y="14" width="24" height="24" rx="7" fill="#714338" />
+  <svg x="23" y="19" width="14" height="14" viewBox="0 0 24 24" color="#FFA48A" fill="#FFA48A">
+    <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" fill="currentColor" />
+  </svg>
+  <text x="52" y="32" fill="#F1E9FA" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-weight="650" font-size="18">Developer tools</text>
+  <path d="M18 48H392" stroke="#766584" opacity=".65" />
+  <svg x="18" y="57" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="68" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Git</text>
+  <svg x="217" y="57" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" fill="#C9A6F1" />
+  </svg>
+  <text x="238" y="68" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">GitHub</text>
+  <svg x="18" y="74" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M21.604 0a19.144 19.144 0 0 1-5.268 13.213L2.396 0l13.583 13.583a19.149 19.149 0 0 1-13.583 5.624V0h19.208Zm-1.911 17.297A24.455 24.455 0 0 1 7.189 24l-4.053-4.053a19.91 19.91 0 0 0 13.37-5.838l3.187 3.188Z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="85" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Poetry</text>
+  <svg x="217" y="74" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M3 6h8M3 10h5m1 4 3 6 4-8h2l2 5 2-5" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="85" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">uv</text>
+  <svg x="18" y="91" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M12 0c-.563 0-1.127.215-1.557.645L.645 10.443c-.86.86-.86 2.254 0 3.114l9.798 9.798c.86.86 2.254.86 3.114 0l9.798-9.798c.86-.86.86-2.254 0-3.114L13.557.645A2.195 2.195 0 0012 0zm0 1.74c.493 0 .987.186 1.361.56L21.7 10.64c.75.75.75 1.973 0 2.722L13.361 21.7c-.374.375-.868.56-1.361.56s-.987-.185-1.361-.56L2.3 13.361a1.93 1.93 0 010-2.722L10.639 2.3c.374-.375.868-.56 1.361-.56zm0 .62c-.333 0-.664.127-.92.382L2.742 11.08a1.295 1.295 0 000 1.84l8.338 8.338a1.296 1.296 0 001.84 0l8.338-8.338a1.295 1.295 0 000-1.84L12.92 2.742A1.296 1.296 0 0012 2.36zM9.207 7.624h3.959c.55 0 1.015.079 1.4.238.385.16.7.371.942.633.241.262.417.561.527.897a3.34 3.34 0 010 2.084c-.11.34-.286.64-.527.902a2.628 2.628 0 01-.942.633c-.385.16-.85.238-1.4.238h-2.043v3.156H9.207zm1.916 1.484v2.657h1.514c.222 0 .434-.016.64-.05.207-.032.39-.097.547-.193.158-.095.284-.23.38-.404.094-.174.142-.401.142-.682 0-.28-.048-.507-.143-.681a1.053 1.053 0 00-.379-.404 1.513 1.513 0 00-.547-.194 4.056 4.056 0 00-.64-.049z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="102" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">pre-commit</text>
+  <svg x="217" y="91" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M2.214 4.954v13.615L7.655 24V10.314L3.312 3.845 2.214 4.954zm4.999 17.98l-4.557-4.548V5.136l.59-.596 3.967 5.908v12.485zm14.573-4.457l-.862.937-4.24-6.376V0l5.068 5.092.034 13.385zM7.431.001l12.998 19.835-3.637 3.637L3.787 3.683 7.43 0z" fill="#C9A6F1" />
+  </svg>
+  <text x="238" y="102" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Neovim</text>
+  <svg x="18" y="108" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M3 5h18v14H3z M6 9l3 3-3 3m5 0h4" fill="none" stroke="#C9A6F1" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="119" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Terminal</text>
+  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" x="217" y="108">
+    <path d="m12 21 9.1-6.7-2.1-9.5a.5.5 0 0 0-.9-.1l-2 5.5H7.9l-2-5.5a.5.5 0 0 0-.9.1l-2.1 9.5L12 21zm0 0-4.1-10.8M12 21l4.1-10.8" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="119" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">GitLab</text>
+  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" x="18" y="125">
+    <path d="M3 3h18v2H3z M4 7h3v14H4z M9 7h3v11H9z M14 7h3v8h-3z M19 7h2v5h-2z" fill="#C9A6F1" />
+  </svg>
+  <text x="39" y="136" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">pytest</text>
+  <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true" x="217" y="125">
+    <path d="m13 2-9 12h7l-1.5 8L21 9h-8z" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="136" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Ruff</text>
+  <svg x="18" y="142" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M2 4h11m-5.5 0v13M13 15.5l3.2 3.3 5.3-7.3" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="153" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">ty</text>
+  <svg x="217" y="142" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M3 20V4m0 16h18M6 15l4-4 3 2 6-7" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="153" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">coverage.py</text>
+  <svg x="18" y="159" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M22 2 7 17m15-15-5 20-5-10-10-5 20-5Z" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="39" y="170" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Postman</text>
+  <svg x="217" y="159" width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M3 5h18v14H3zM3 9h18m-12 5 2 2 4-4" fill="none" stroke="#C9A6F1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  </svg>
+  <text x="238" y="170" font-size="14.6" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" fill="#F1E9FA">Playwright</text>
+</svg>

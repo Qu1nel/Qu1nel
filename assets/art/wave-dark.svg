@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="104" viewBox="0 0 920 104" role="img" aria-labelledby="title">
+  <title id="title">Layered waves in shades of violet</title>
+  <defs>
+    <linearGradient id="layer1" x1="0" x2="1" y1="0" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#282537"/><stop offset=".58" stop-color="#514362"/><stop offset="1" stop-color="#392b31"/>
+    </linearGradient>
+    <linearGradient id="layer2" x1="0" x2="1" y1="0" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#373044"/><stop offset=".58" stop-color="#74608b"/><stop offset="1" stop-color="#5c4247"/>
+    </linearGradient>
+    <linearGradient id="layer3" x1="0" x2="1" y1="0" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#62547b"/><stop offset=".58" stop-color="#ab8cc7"/><stop offset="1" stop-color="#aa7979"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset=".62" stop-color="white"/><stop offset="1" stop-color="black"/>
+    </linearGradient>
+    <mask id="edge" maskUnits="userSpaceOnUse" x="0" y="0" width="920" height="104">
+      <rect width="920" height="104" fill="url(#fade)"/>
+    </mask>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .wave1 { animation: drift1 16.75s ease-in-out infinite; }
+      @keyframes drift1 { 50% { d: path("M 0,104 C0,104 0,20 0,20 C88,25 166,18 246,15 C317,12 393,18 464,23 C551,31 634,33 714,28 C790,24 858,15 920,20 C920,20 920,104 920,104 Z"); } }
+      .wave2 { animation: drift2 20.47s ease-in-out infinite; }
+      @keyframes drift2 { 50% { d: path("M 0,104 C0,104 0,48 0,48 C85,41 171,37 244,42 C325,48 375,56 457,57 C542,59 626,49 692,45 C774,37 851,43 920,48 C920,48 920,104 920,104 Z"); } }
+      .wave3 { animation: drift3 24.19s ease-in-out infinite; }
+      @keyframes drift3 { 50% { d: path("M 0,104 C0,104 0,76 0,76 C60,67 135,63 213,69 C286,74 360,84 441,86 C537,91 649,76 721,73 C797,66 863,72 920,76 C920,76 920,104 920,104 Z"); } }
+    }
+  </style>
+  <g mask="url(#edge)">
+    <path transform="translate(0 -17.8) scale(1 1.89)" class="wave1" fill="url(#layer1)" d="M 0,104 C0,104 0,20 0,20 C58.2,22.8 116.4,25.5 187.8,23.4 C259.3,21.2 344,14.1 438.3,13.8 C532.5,13.6 636.2,20.3 718.1,22.5 C800,24.7 860,22.4 920,20 C920,20 920,104 920,104 Z"/>
+    <path transform="translate(0 -40.32) scale(1 1.84)" class="wave2" fill="url(#layer2)" d="M 0,104 C0,104 0,48 0,48 C97.7,43.7 195.4,39.5 266.4,38.2 C337.5,36.9 381.9,38.6 452.3,39.3 C522.8,40 619.2,39.7 701.5,41 C783.8,42.3 851.9,45.1 920,48 C920,48 920,104 920,104 Z"/>
+    <path transform="translate(0 -43.32) scale(1 1.57)" class="wave3" fill="url(#layer3)" d="M 0,104 C0,104 0,76 0,76 C60.4,71.3 120.8,66.6 190.4,66.8 C259.9,66.9 338.6,71.9 430,75.4 C521.3,78.9 625.4,80.9 709.2,80.8 C793,80.6 856.5,78.3 920,76 C920,76 920,104 920,104 Z"/>
+  </g>
+</svg>
