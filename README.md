@@ -13,6 +13,8 @@
 <details>
 <summary>Inside the projects</summary>
 
+<p><br></p>
+
 <p><strong>SaaS backend</strong></p>
 <p>Each storefront has its own Telegram bot. Customers can place an order in chat, pay with Telegram Stars and see the same order status on the website. I track wallet balances in PostgreSQL using an append-only, double-entry ledger.</p>
 <p><strong>What if the same payment confirmation arrives twice?</strong> My integration test sends the confirmation twice and checks that the payment is applied to the order only once. I also test concurrent debits and check successful and error responses against the OpenAPI contract. The Go test files contain just over twice as many lines as the rest of the handwritten Go code.</p>
@@ -24,6 +26,8 @@
 
 <details>
 <summary>More projects</summary>
+
+<p></p>
 
 <table width="100%">
 <tr><td width="33%" valign="top"><a href="https://github.com/Qu1nel/Cardioid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/cardioid-dark.svg"><img src="assets/art/cardioid-light.svg" width="100%" alt="Cardioid"></picture></a><p><strong><a href="https://github.com/Qu1nel/Cardioid">Cardioid</a></strong></p><p>Straight lines between points on a circle trace a changing curve in Pygame.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/CellularAutomaton"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/cellular-dark.svg"><img src="assets/art/cellular-light.svg" width="100%" alt="Cellular Automaton"></picture></a><p><strong><a href="https://github.com/Qu1nel/CellularAutomaton">Cellular Automaton</a></strong></p><p>I built a simulator where you can choose which cells count as neighbours, set the rules for birth and survival, and watch the pattern evolve.</p></td><td width="33%" valign="top"><a href="https://github.com/Qu1nel/2048"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/2048-dark.svg"><img src="assets/art/2048-light.svg" width="100%" alt="2048"></picture></a><p><strong><a href="https://github.com/Qu1nel/2048">2048</a></strong></p><p>My first personal project, built with Pygame two and a half months after I started learning Python.</p></td></tr>
@@ -68,4 +72,4 @@
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/art/crow-dark.svg"><img src="assets/art/crow-light.svg" width="79" align="right" alt="Violet crow"></picture> <a href="mailto:covach.qn@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-email-dark.svg"><img src="assets/badges/button-email-light.svg" width="69" alt="Email"></picture></a> <a href="https://t.me/qnllnq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/button-telegram-dark.svg"><img src="assets/badges/button-telegram-light.svg" width="91" alt="Telegram"></picture></a></p>
 
-<p><br><a href="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;color=75519a&amp;style=flat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;style=flat&amp;color=7B4C40"><img src="https://komarev.com/ghpvc/?username=Qu1nel&amp;label=Profile%20views&amp;style=flat&amp;color=9B5F0E" width="145" alt="Profile views"></picture></a></p>
+<p><br><a href="https://komarev.com/ghpvc/?username=Qu1nelw&amp;label=Profile%20views&amp;color=75519a&amp;style=flat"><picture><source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Qu1nelw&amp;label=Profile%20views&amp;style=flat&amp;color=7B4C40"><img src="https://komarev.com/ghpvc/?username=Qu1nelw&amp;label=Profile%20views&amp;style=flat&amp;color=9B5F0E" width="120" alt="Profile views"></picture></a></p>
